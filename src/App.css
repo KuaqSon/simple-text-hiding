@@ -1,0 +1,137 @@
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.header {
+  padding: 20px 0;
+}
+
+.header .header_main {
+  letter-spacing: 1rem;
+  font-size: 2rem;
+  color: #080808;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.header .header_sub {
+  letter-spacing: 0.2rem;
+  line-height: 1.5;
+  font-weight: bold;
+  font-size: 0.8rem;
+  color: #646a58;
+  text-transform: uppercase;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.input_box {
+  margin: 0 auto;
+  padding: 20px 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.input_box label {
+  color: #ab3b3a;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  font-size: 1rem;
+  margin-bottom: 4px;
+  font-weight: bold;
+}
+
+.input_box textarea {
+  padding: 20px;
+  min-height: 200px;
+  box-sizing: border-box;
+  cursor: pointer;
+  font-size: 20px;
+  border: 2px solid #aaa;
+  outline: transparent;
+  -webkit-transition: border-color 0.25s ease, color 0.25s ease;
+  transition: border-color 0.25s ease, color 0.25s ease;
+  background-color: transparent;
+}
+
+.input_box textarea:focus {
+  border-color: #0b1013;
+}
+
+.tab_selector {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+
+button.btn {
+  position: relative;
+  height: 40px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-flex: 1;
+  flex: 1;
+  color: #0b1013;
+  letter-spacing: 0.1rem;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+  border: none;
+  font-weight: bold;
+  max-width: 200px;
+  cursor: pointer;
+}
+
+button.btn:hover {
+  color: #fcfaf2;
+  background-color: #ab3b3a;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+button.btn:focus {
+  outline: none;
+}
+
+button.btn.active {
+  background-color: #ab3b3a;
+  color: #fcfaf2;
+}
+
+button.btn_2:active {
+  top: 2px;
+}
+
+button.btn.btn_2 {
+  background-color: transparent;
+  border: 1px solid #0b1013;
+  color: #0b1013;
+  margin: 10px auto;
+}
+
+.text_result {
+  color: #0b1013;
+  border: 2px solid #0b1013;
+  padding: 40px 20px;
+  padding-top: 60px;
+  text-align: left;
+  min-height: 20px;
+  margin-top: -20px;
+}
+
+.footer {
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 0.8rem;
+}
