@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/simple-text-hiding/static/css/main.c1b6a521.chunk.css",
+    "main.css": "/simple-text-hiding/static/css/main.6aa42e30.chunk.css",
     "main.js": "/simple-text-hiding/static/js/main.d82ff148.chunk.js",
     "main.js.map": "/simple-text-hiding/static/js/main.d82ff148.chunk.js.map",
     "runtime-main.js": "/simple-text-hiding/static/js/runtime-main.a3048013.js",
@@ -10,13 +10,13 @@
     "static/js/3.19f340f4.chunk.js": "/simple-text-hiding/static/js/3.19f340f4.chunk.js",
     "static/js/3.19f340f4.chunk.js.map": "/simple-text-hiding/static/js/3.19f340f4.chunk.js.map",
     "index.html": "/simple-text-hiding/index.html",
-    "static/css/main.c1b6a521.chunk.css.map": "/simple-text-hiding/static/css/main.c1b6a521.chunk.css.map",
+    "static/css/main.6aa42e30.chunk.css.map": "/simple-text-hiding/static/css/main.6aa42e30.chunk.css.map",
     "static/js/2.44ad60f9.chunk.js.LICENSE.txt": "/simple-text-hiding/static/js/2.44ad60f9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a3048013.js",
     "static/js/2.44ad60f9.chunk.js",
-    "static/css/main.c1b6a521.chunk.css",
+    "static/css/main.6aa42e30.chunk.css",
     "static/js/main.d82ff148.chunk.js"
   ]
 }
